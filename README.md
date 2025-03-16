@@ -1,6 +1,6 @@
 # LeetCode-Questions
 
-A curated collection of LeetCode problems solved in Python. This repository is designed to help programmers improve their problem-solving skills with well-structured, efficient, and optimized solutions.
+A curated collection of LeetCode problems solved in Python. This repository is designed to practice and improve problem-solving skills with well-structured, efficient, and optimized solutions.
 
 ## 🚀 About This Repository
 
@@ -11,20 +11,6 @@ A curated collection of LeetCode problems solved in Python. This repository is d
   - A clean and well-commented Python implementation  
   - An explanation of the approach  
   - Time and space complexity analysis  
-
-## 📂 Repository Structure
-
-```
-LeetCode-Questions/
-│── Easy/
-│   ├── two_sum.py
-│   ├── valid_parentheses.py
-│── Medium/
-│   ├── longest_substring.py
-│── Hard/
-│   ├── merge_k_sorted_lists.py
-│── README.md
-```
 
 ## 🎯 How to Use
 
