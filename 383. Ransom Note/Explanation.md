@@ -113,6 +113,5 @@ def canConstruct(ransomNote: str, magazine: str) -> bool:
 ### **Key Takeaways**  
 ✅ Count letters in `magazine`  
 ✅ Check if `ransomNote` letters exist in `magazine` with enough quantity  
-✅ Use Python **dictionary** (or `Counter`) for efficient counting  
-
-Let me know if anything needs more explanation!
+✅ Use Python **dictionary** (or `Counter`) for efficient counting
+***
