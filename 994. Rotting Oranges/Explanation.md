@@ -31,11 +31,19 @@ Imagine a **grid (a 2D table)** where:
 ```
 2 2 2
 2 2 0
-0 2 1
+0 1 1
 ```
 (Oranges at **(0,1) and (1,0) rot their neighbors**.)
 
 #### **Minute 3:**
+```
+2 2 2
+2 2 0
+0 2 1
+```
+(Orange at **(1,1) rot its neighbor (1,2)**.)
+
+#### **Minute 4:**
 ```
 2 2 2
 2 2 0
@@ -73,7 +81,7 @@ Imagine a **grid (a 2D table)** where:
 
 BFS is a method used in **graph traversal**.  
 
-### **Zero-Level Understanding of BFS**
+### **Understanding of BFS**
 - Imagine you **drop a water droplet** in the center of a pond.
 - The water **spreads outward in layers**.
 - This is how **BFS spreads information**.
@@ -219,4 +227,4 @@ def orangesRotting(grid):
 ✅ **Using a queue ensures all rotten oranges spread simultaneously.**  
 ✅ **If any fresh oranges remain, return `-1`.**  
 
-🔥 Hence, that was a **detailed explanation** of BFS and solution this problem! 🚀
+🔥 Hence, that was a **detailed explanation** of BFS and solution of this problem! 🚀
