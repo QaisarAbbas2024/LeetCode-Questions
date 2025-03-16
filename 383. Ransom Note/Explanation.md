@@ -1,3 +1,4 @@
+## 383. Ransom Note
 ### **Understanding the Problem**  
 
 Imagine you are writing a **ransom note** using letters cut out from a **magazine**. The rule is simple:  
