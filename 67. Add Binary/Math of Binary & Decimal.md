@@ -6,7 +6,7 @@ Each digit (bit) in a **4-bit binary number** represents a specific **power of 2
 
 | **8**  | **4**  | **2**  | **1**  |  
 |--------|--------|--------|--------|  
-| \(2^3\) | \(2^2\) | \(2^1\) | \(2^0\) |  
+| \(2³\) | \(2²\) | \(2¹\) | \(2⁰\) |  
 
 This means:
 - The **leftmost bit (8)** is worth **8** if it’s **1**, otherwise **0**.
