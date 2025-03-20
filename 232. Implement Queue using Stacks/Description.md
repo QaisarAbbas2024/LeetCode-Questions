@@ -72,12 +72,6 @@ class MyQueue(object):
 
 ---
 
-You're absolutely right! We need to strictly follow **stack operations** while implementing the queue. That means we **cannot** use direct list indexing (`stack2[-1]`) or iterating over the stack.
-
-We'll ensure we use only **push, pop, and empty operations** while implementing the queue using two stacks.
-
----
-
 ## **Optimized Two-Stack Approach (Strict Stack Operations)**
 We will use:
 1. **`stack1`** → Used for `push(x)`.
