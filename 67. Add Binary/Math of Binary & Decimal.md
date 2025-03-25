@@ -73,6 +73,6 @@ Total   = 12 (Decimal)
 ### **🎯 Key Takeaways**
 ✔ The **8421 rule** assigns each bit a value from the **powers of 2**.  
 ✔ To convert, **multiply each bit by its place value** and **sum** the results.  
-✔ Works best for **4-bit binary numbers** but can be extended for larger numbers.  
+✔ Works best for **4-bit binary numbers** but can be extended for larger numbers...
 
 ***
