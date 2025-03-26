@@ -130,6 +130,6 @@ This would cause **extra unnecessary work** because:
 ### **✅ Summary**
 👉 **`while left < right` ensures that we only compare needed characters.**  
 👉 **It prevents unnecessary checks and makes the solution efficient.**  
-👉 **Once `left` reaches `right`, we are done checking the string.**  
+👉 **Once `left` reaches `right`, we are done checking the string...**  
 
 Would you like me to run a visual simulation for another example? 😊
