@@ -59,6 +59,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0279-perfect-squares](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0279-perfect-squares) |
 ## Dynamic Programming
 |  |
@@ -68,4 +69,12 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0279-perfect-squares) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
