@@ -86,6 +86,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
@@ -139,9 +140,18 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
