@@ -90,6 +90,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 ## Array
 |  |
@@ -139,4 +140,8 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
