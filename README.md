@@ -99,6 +99,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 ## Array
 |  |
@@ -157,6 +158,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
