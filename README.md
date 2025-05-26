@@ -66,6 +66,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Breadth-First Search
@@ -107,6 +108,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0198-house-robber](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
