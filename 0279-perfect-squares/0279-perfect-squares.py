@@ -15,7 +15,7 @@ class Solution:
         while n % 4 == 0:
             n //= 4
         
-        # Step 4: Check Legendre's condition
+        # Step 4: Check Legendre's condition: n = 4^a * (8b + 7)
         if n % 8 == 7:
             return 4
         
