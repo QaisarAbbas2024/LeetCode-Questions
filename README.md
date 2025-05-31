@@ -83,6 +83,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
@@ -93,6 +94,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -114,6 +116,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0229-majority-element-ii) |
@@ -136,6 +139,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
