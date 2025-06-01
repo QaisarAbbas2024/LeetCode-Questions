@@ -65,6 +65,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3201-distribute-candies-among-children-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,4 +247,12 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
+## Combinatorics
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3201-distribute-candies-among-children-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
