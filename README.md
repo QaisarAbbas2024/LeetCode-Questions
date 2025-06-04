@@ -62,6 +62,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0012-integer-to-roman](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
@@ -123,6 +124,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0021-merge-two-sorted-lists](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -172,6 +174,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Greedy
