@@ -109,6 +109,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +151,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0349-intersection-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
 | ------- |
@@ -263,4 +265,5 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
