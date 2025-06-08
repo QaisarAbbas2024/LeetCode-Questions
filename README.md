@@ -225,6 +225,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -278,4 +279,8 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
