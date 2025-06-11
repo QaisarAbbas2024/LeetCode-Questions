@@ -118,6 +118,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -206,6 +207,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
 |  |
 | ------- |
@@ -286,9 +288,14 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Sliding Window
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
