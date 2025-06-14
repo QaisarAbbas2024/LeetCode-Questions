@@ -66,6 +66,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Dynamic Programming
@@ -197,6 +198,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
