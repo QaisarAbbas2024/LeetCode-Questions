@@ -157,6 +157,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -179,6 +180,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
@@ -204,6 +206,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
