@@ -82,6 +82,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0322-coin-change](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Breadth-First Search
 |  |
@@ -121,6 +122,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -214,6 +216,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -302,6 +305,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0070-climbing-stairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Matrix
 |  |
 | ------- |
