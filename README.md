@@ -84,6 +84,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3618-find-the-original-typed-string-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -248,6 +250,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Prefix Sum
 |  |
 | ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
