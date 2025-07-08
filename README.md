@@ -123,6 +123,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
@@ -163,6 +164,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0135-candy) |
@@ -364,6 +366,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 ## Sliding Window
