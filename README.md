@@ -60,6 +60,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0231-power-of-two) |
@@ -127,6 +128,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -238,6 +240,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -382,6 +385,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
