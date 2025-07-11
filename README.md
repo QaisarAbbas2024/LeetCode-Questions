@@ -187,6 +187,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1656-count-good-triplets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -374,6 +375,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
