@@ -88,6 +88,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3618-find-the-original-typed-string-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -366,6 +367,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0070-climbing-stairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Matrix
 |  |
