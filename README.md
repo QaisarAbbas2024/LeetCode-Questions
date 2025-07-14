@@ -67,6 +67,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -318,6 +319,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0206-reverse-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Depth-First Search
 |  |
 | ------- |
