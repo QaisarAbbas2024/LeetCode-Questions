@@ -1,6 +1,6 @@
 <div align="center">
 <h1>LeetCode Questions</h1>
-<h3>Practice and Solutions of LeetCode Questions by using Python.</h3>
+<h3>Practice and Solutions of LeetCode Questions by using Python</h3>
   
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![GitHub forks](https://img.shields.io/github/forks/QaisarAbbas2024/LeetCode-Questions.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/QaisarAbbas2024/LeetCode-Questions/network/)
