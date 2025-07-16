@@ -92,6 +92,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 ## Breadth-First Search
 |  |
@@ -207,6 +208,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3194-find-words-containing-character](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
