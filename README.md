@@ -142,6 +142,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -193,6 +194,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0665-non-decreasing-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0665-non-decreasing-array) |
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -334,6 +336,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0094-binary-tree-inorder-traversal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0386-lexicographical-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -410,6 +413,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0014-longest-common-prefix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Sliding Window
 |  |
 | ------- |
