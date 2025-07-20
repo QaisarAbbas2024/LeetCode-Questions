@@ -141,6 +141,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
@@ -230,6 +231,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0349-intersection-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
