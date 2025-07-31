@@ -87,6 +87,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0279-perfect-squares](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -207,6 +208,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0665-non-decreasing-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0665-non-decreasing-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -295,6 +297,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
