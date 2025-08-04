@@ -122,6 +122,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -212,6 +213,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0665-non-decreasing-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0665-non-decreasing-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -466,6 +468,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
