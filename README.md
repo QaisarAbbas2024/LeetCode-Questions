@@ -252,6 +252,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -302,6 +303,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -509,6 +511,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -517,4 +520,5 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
