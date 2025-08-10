@@ -68,6 +68,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0279-perfect-squares](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
 | [0826-soup-servings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2050-count-good-numbers) |
@@ -125,6 +126,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
@@ -283,6 +285,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0349-intersection-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -408,6 +411,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0229-majority-element-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
+| [0900-reordered-power-of-2](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -458,6 +462,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
