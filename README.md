@@ -69,6 +69,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0326-power-of-three](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
+| [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0900-reordered-power-of-2) |
@@ -226,6 +227,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0665-non-decreasing-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0665-non-decreasing-array) |
+| [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
@@ -517,6 +519,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Design
