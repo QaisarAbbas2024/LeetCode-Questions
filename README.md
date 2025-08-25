@@ -230,6 +230,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0322-coin-change](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0498-diagonal-traverse](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0665-non-decreasing-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0665-non-decreasing-array) |
 | [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
@@ -479,6 +480,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -530,6 +532,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
