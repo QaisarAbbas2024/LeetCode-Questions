@@ -269,6 +269,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
