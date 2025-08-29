@@ -82,6 +82,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
