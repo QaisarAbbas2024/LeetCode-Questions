@@ -169,6 +169,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
+| [3678-design-task-manager](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -436,6 +437,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2479-meeting-rooms-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3678-design-task-manager) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -608,6 +610,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3678-design-task-manager) |
 ## String Matching
 |  |
 | ------- |
@@ -632,6 +635,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
