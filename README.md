@@ -62,6 +62,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0012-integer-to-roman](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
@@ -142,6 +143,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0037-sudoku-solver](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0242-valid-anagram) |
@@ -190,6 +192,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
