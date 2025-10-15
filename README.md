@@ -354,6 +354,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -438,6 +439,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3827-implement-router) |
