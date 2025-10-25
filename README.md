@@ -82,6 +82,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1448-maximum-69-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1642-water-bottles](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2050-count-good-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
