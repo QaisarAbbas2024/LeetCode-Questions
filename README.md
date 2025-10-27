@@ -86,6 +86,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2050-count-good-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2050-count-good-numbers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -232,6 +233,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -337,6 +339,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -647,6 +650,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
