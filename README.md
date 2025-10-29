@@ -101,6 +101,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3548-find-the-count-of-good-integers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -486,6 +487,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
