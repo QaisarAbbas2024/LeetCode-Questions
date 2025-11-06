@@ -158,6 +158,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -408,6 +410,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3797-design-spreadsheet](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3827-implement-router) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -559,6 +562,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -609,6 +613,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -652,6 +657,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -803,6 +809,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3790-fruits-into-baskets-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -832,6 +839,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
+| [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
 |  |
 | ------- |
