@@ -214,6 +214,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -282,6 +283,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -412,6 +414,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
@@ -549,6 +552,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -650,6 +654,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
