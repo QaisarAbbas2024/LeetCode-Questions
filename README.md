@@ -329,6 +329,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0611-valid-triangle-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0665-non-decreasing-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0665-non-decreasing-array) |
 | [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
