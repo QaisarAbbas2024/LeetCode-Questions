@@ -198,6 +198,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2174-next-greater-numerically-balanced-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -369,6 +370,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -467,6 +469,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2479-meeting-rooms-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2479-meeting-rooms-iii) |
@@ -784,6 +787,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
