@@ -95,6 +95,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3201-distribute-candies-among-children-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -393,6 +394,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2689-rearranging-fruits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
