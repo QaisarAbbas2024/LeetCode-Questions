@@ -229,6 +229,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -289,6 +290,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3462-vowels-game-in-a-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -441,6 +443,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -524,6 +527,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3433-count-mentions-per-user](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
