@@ -161,6 +161,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3618-find-the-original-typed-string-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -445,6 +446,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3583-count-special-triplets) |
@@ -675,6 +677,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Linked List
@@ -703,6 +706,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 | [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
