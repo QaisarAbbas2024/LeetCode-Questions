@@ -266,6 +266,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
+| [0944-delete-columns-to-make-sorted](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1006-vowel-spellchecker](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -366,6 +367,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0830-largest-triangle-area](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1018-largest-perimeter-triangle) |
