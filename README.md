@@ -180,6 +180,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -407,6 +408,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1834-minimum-number-of-people-to-teach](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -577,6 +579,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1612-avoid-flood-in-the-city](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -735,6 +738,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0794-swim-in-rising-water](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -818,6 +822,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -993,6 +998,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Bitmask
