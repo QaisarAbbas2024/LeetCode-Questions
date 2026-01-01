@@ -60,6 +60,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -352,6 +353,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0036-valid-sudoku](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0120-triangle) |
