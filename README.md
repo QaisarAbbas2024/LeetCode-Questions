@@ -79,6 +79,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0900-reordered-power-of-2](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -395,6 +396,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
