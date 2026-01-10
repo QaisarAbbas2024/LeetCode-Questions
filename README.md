@@ -138,6 +138,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0322-coin-change](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
 | [0474-ones-and-zeroes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0826-soup-servings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -280,6 +281,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
