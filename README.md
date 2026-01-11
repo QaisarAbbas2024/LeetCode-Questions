@@ -131,6 +131,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -332,6 +333,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
@@ -363,6 +365,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0037-sudoku-solver](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0120-triangle) |
@@ -800,6 +803,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -838,6 +842,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0036-valid-sudoku](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
