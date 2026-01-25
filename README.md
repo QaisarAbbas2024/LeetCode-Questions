@@ -436,6 +436,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1917-maximum-average-pass-ratio](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -578,6 +579,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -948,6 +950,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0940-fruit-into-baskets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
