@@ -732,6 +732,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
@@ -1094,4 +1095,12 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
