@@ -317,6 +317,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2483-minimum-penalty-for-a-shop](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2887-sort-vowels-in-a-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3194-find-words-containing-character](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -477,6 +478,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1101,9 +1103,11 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Graph Theory
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
