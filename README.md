@@ -395,6 +395,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0665-non-decreasing-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0665-non-decreasing-array) |
 | [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
@@ -624,6 +625,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0349-intersection-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
