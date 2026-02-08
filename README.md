@@ -787,6 +787,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -816,6 +817,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
@@ -838,6 +840,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0100-same-tree) |
+| [0110-balanced-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
