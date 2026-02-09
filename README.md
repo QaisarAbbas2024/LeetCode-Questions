@@ -698,6 +698,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1382-balance-a-binary-search-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -791,6 +792,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -825,6 +827,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1382-balance-a-binary-search-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2092-find-all-people-with-secret) |
@@ -844,6 +847,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -876,6 +880,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [1382-balance-a-binary-search-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1139,4 +1144,8 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2976-minimum-cost-to-convert-string-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
