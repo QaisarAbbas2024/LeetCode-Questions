@@ -674,6 +674,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0342-power-of-four) |
@@ -893,6 +894,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
