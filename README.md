@@ -297,6 +297,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
+| [0696-count-binary-substrings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -579,6 +580,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0349-intersection-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0611-valid-triangle-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
