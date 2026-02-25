@@ -818,6 +818,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0100-same-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
@@ -852,6 +853,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0417-pacific-atlantic-water-flow](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -873,6 +875,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0100-same-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
