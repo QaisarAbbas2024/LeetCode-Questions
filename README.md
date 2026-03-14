@@ -319,6 +319,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -1108,6 +1109,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0401-binary-watch](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0756-pyramid-transition-matrix) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
