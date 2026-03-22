@@ -577,6 +577,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3637-trionic-array-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -618,6 +619,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3643-flip-square-submatrix-vertically](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
 |  |
@@ -1021,6 +1023,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
