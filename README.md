@@ -342,6 +342,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1980-find-unique-binary-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1980-find-unique-binary-string) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -1146,6 +1147,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
