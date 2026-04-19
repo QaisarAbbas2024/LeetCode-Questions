@@ -503,6 +503,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1834-minimum-number-of-people-to-teach](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -660,6 +661,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0696-count-binary-substrings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -743,6 +745,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1612-avoid-flood-in-the-city](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
