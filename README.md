@@ -498,6 +498,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1813-maximum-erasure-value](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -967,6 +968,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2092-find-all-people-with-secret) |
@@ -1344,6 +1346,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
