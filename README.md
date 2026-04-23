@@ -266,6 +266,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2429-design-a-food-rating-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2615-sum-of-distances](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2615-sum-of-distances) |
 | [2689-rearranging-fruits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2689-rearranging-fruits) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -551,6 +552,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-range-product-queries-of-powers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2529-range-product-queries-of-powers) |
 | [2573-find-the-string-with-lcp](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2689-rearranging-fruits) |
@@ -899,6 +901,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2529-range-product-queries-of-powers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2529-range-product-queries-of-powers) |
+| [2615-sum-of-distances](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [2906-construct-product-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
