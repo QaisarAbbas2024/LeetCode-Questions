@@ -211,6 +211,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -484,6 +485,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -978,6 +980,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1382-balance-a-binary-search-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1081,6 +1084,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1359,6 +1363,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
