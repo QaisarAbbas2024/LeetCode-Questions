@@ -95,6 +95,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1817-calculate-money-in-leetcode-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1925-count-square-sum-triples) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2050-count-good-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -524,6 +525,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -709,6 +711,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2092-find-all-people-with-secret](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1100,6 +1103,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1895-largest-magic-square](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
