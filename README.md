@@ -71,6 +71,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0326-power-of-three](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
+| [0396-rotate-function](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0826-soup-servings) |
@@ -150,6 +151,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0279-perfect-squares](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
+| [0396-rotate-function](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0799-champagne-tower) |
@@ -454,6 +456,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0322-coin-change](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
