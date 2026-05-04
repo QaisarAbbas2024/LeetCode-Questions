@@ -60,6 +60,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0070-climbing-stairs) |
@@ -445,6 +446,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0014-longest-common-prefix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
@@ -1092,6 +1094,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0036-valid-sudoku](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
