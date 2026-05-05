@@ -678,6 +678,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
@@ -974,6 +975,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0206-reverse-linked-list) |
