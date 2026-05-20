@@ -286,6 +286,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2479-meeting-rooms-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2615-sum-of-distances](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2615-sum-of-distances) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2689-rearranging-fruits) |
 | [2784-check-if-array-is-good](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -592,6 +593,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2615-sum-of-distances](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2615-sum-of-distances) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2625-increment-submatrices-by-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2689-rearranging-fruits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2689-rearranging-fruits) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2751-robot-collisions](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2751-robot-collisions) |
@@ -852,6 +854,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2529-range-product-queries-of-powers) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
