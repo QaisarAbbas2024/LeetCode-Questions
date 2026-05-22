@@ -457,6 +457,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0048-rotate-image) |
@@ -795,6 +796,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
