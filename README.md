@@ -628,6 +628,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3074-apple-redistribution-into-boxes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-longest-common-suffix-queries](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
+| [3161-block-placement-queries](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -832,6 +833,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3161-block-placement-queries](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3453-separate-squares-i) |
@@ -1349,6 +1351,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1622-fancy-sequence) |
+| [3161-block-placement-queries](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1461,4 +1464,8 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3161-block-placement-queries](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3161-block-placement-queries) |
 <!---LeetCode Topics End-->
