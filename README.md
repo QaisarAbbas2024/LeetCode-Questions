@@ -97,6 +97,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1642-water-bottles](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1840-maximum-building-height](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1925-count-square-sum-triples) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -565,6 +566,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1813-maximum-erasure-value](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1840-maximum-building-height](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -794,6 +796,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1840-maximum-building-height](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1840-maximum-building-height) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
