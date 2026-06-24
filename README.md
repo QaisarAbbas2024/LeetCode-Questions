@@ -141,6 +141,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -217,6 +218,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3651-minimum-cost-path-with-teleportations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
