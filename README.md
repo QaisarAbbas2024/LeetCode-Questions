@@ -73,6 +73,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0342-power-of-four](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0788-rotated-digits) |
@@ -542,6 +543,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0498-diagonal-traverse](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0665-non-decreasing-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0665-non-decreasing-array) |
 | [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -843,6 +845,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0759-set-intersection-size-at-least-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0761-special-binary-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0900-reordered-power-of-2) |
