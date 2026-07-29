@@ -135,6 +135,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3548-find-the-count-of-good-integers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -343,6 +344,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3531-count-covered-buildings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
@@ -465,6 +467,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3499-maximize-active-section-with-trade-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3606-coupon-code-validator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
 | [3612-process-string-with-special-operations-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3612-process-string-with-special-operations-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3617-find-the-original-typed-string-i) |
@@ -1250,6 +1253,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1370,6 +1374,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2324-find-triangular-sum-of-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
