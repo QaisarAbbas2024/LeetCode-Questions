@@ -73,6 +73,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0342-power-of-four](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -177,6 +178,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0474-ones-and-zeroes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0799-champagne-tower) |
@@ -516,6 +518,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0231-power-of-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -548,6 +551,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0407-trapping-rain-water-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
+| [0486-predict-the-winner](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
@@ -1593,6 +1597,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
