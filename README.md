@@ -227,6 +227,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -471,6 +472,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3121-count-the-number-of-special-characters-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3194-find-words-containing-character](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3396-valid-word) |
@@ -850,6 +852,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2161-partition-array-according-to-given-pivot](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -1082,6 +1085,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3075-maximize-happiness-of-selected-children](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
