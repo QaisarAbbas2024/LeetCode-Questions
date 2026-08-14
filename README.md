@@ -350,6 +350,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -474,6 +475,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3093-longest-common-suffix-queries](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -1486,6 +1488,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2618-maximize-the-minimum-powered-city](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
