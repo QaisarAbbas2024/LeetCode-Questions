@@ -360,6 +360,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -767,6 +768,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
