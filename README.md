@@ -387,6 +387,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3714-longest-balanced-substring-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3714-longest-balanced-substring-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3721-longest-balanced-subarray-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -510,6 +511,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3714-longest-balanced-substring-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1136,6 +1138,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1326,6 +1329,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3583-count-special-triplets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1480,6 +1484,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3548-equal-sum-grid-partition-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
