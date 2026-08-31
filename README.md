@@ -1259,6 +1259,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0237-delete-node-in-a-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
