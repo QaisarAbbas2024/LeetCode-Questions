@@ -182,6 +182,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0070-climbing-stairs](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0198-house-robber) |
@@ -415,6 +416,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0049-group-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
