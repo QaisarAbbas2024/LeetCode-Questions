@@ -199,6 +199,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0867-new-21-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0867-new-21-game) |
 | [0877-stone-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-distinct-subsequences-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1140-stone-game-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1140-stone-game-ii) |
@@ -431,6 +432,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0756-pyramid-transition-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0960-delete-columns-to-make-sorted-iii) |
