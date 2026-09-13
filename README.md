@@ -606,6 +606,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0759-set-intersection-size-at-least-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0759-set-intersection-size-at-least-two) |
 | [0794-swim-in-rising-water](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
+| [0835-image-overlap](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0877-stone-game) |
@@ -1426,6 +1427,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0417-pacific-atlantic-water-flow](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [1260-shift-2d-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
