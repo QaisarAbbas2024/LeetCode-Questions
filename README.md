@@ -237,6 +237,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -740,6 +741,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -1492,6 +1494,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1975-maximum-matrix-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2573-find-the-string-with-lcp](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2573-find-the-string-with-lcp) |
@@ -1880,4 +1883,5 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
