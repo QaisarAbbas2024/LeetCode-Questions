@@ -1,38 +1,15 @@
 class Solution:
-    def isValid(self, s: str) -> bool:
+  def isValid(self, s: str) -> bool:
+    stack = []
 
-        stack = []
-    
-        for ch in s:
-            if ch == '(':
-                stack.append(')')
-            elif ch == '{':
-                stack.append('}')
-            elif ch == '[':
-                stack.append(']')
-            else:
-                if len(stack) == 0:
-                    return False  # no matching opening bracket
-                top = stack.pop()
-                if ch != top:
-                    return False  # mismatched bracket
-        
-        return len(stack) == 0  # true if all matched
+    for c in s:
+      if c == '(':
+        stack.append(')')
+      elif c == '{':
+        stack.append('}')
+      elif c == '[':
+        stack.append(']')
+      elif not stack or stack.pop() != c:
+        return False
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''        if len(stack) == 0:
-            return True
-        else:
-            return False'''
+    return not stack
