@@ -284,6 +284,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0100-same-tree](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0279-perfect-squares](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0279-perfect-squares) |
+| [0301-remove-invalid-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -449,6 +450,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0166-fraction-to-recurring-decimal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0383-ransom-note) |
 | [0474-ones-and-zeroes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
@@ -1674,6 +1676,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [0022-generate-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0037-sudoku-solver) |
+| [0301-remove-invalid-parentheses](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
 | [0756-pyramid-transition-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0756-pyramid-transition-matrix) |
