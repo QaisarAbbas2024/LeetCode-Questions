@@ -407,6 +407,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -874,6 +875,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3546-equal-sum-grid-partition-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1054,6 +1056,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3531-count-covered-buildings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3531-count-covered-buildings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
