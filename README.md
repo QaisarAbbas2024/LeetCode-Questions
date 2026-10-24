@@ -123,6 +123,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2288-count-operations-to-obtain-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2409-count-days-spent-together](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -521,6 +522,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2409-count-days-spent-together](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2409-count-days-spent-together) |
 | [2429-design-a-food-rating-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
