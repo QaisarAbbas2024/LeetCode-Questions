@@ -73,6 +73,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0342-power-of-four](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
@@ -655,6 +656,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0396-rotate-function](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
