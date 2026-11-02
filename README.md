@@ -74,6 +74,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0343-integer-break](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0679-24-game](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0679-24-game) |
@@ -657,6 +658,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0407-trapping-rain-water-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0498-diagonal-traverse) |
@@ -1013,6 +1015,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [0268-missing-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
