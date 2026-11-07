@@ -755,6 +755,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1861-rotating-the-box](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1895-largest-magic-square) |
 | [1914-cyclically-rotating-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1914-cyclically-rotating-a-grid) |
@@ -1307,6 +1308,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1612-avoid-flood-in-the-city](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1882-process-tasks-using-servers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1882-process-tasks-using-servers) |
 | [1917-maximum-average-pass-ratio](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
