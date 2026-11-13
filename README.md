@@ -621,6 +621,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2751-robot-collisions](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Recursion
@@ -880,6 +881,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1526,6 +1528,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1628-count-submatrices-with-all-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
@@ -1723,6 +1726,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -1826,6 +1830,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3525-find-x-value-of-array-ii) |
@@ -1881,6 +1886,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3827-implement-router](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
@@ -2035,4 +2041,8 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
