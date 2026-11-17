@@ -535,6 +535,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -1766,6 +1767,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2169-simple-bank-system) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
