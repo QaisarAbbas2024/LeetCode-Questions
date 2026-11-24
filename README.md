@@ -92,6 +92,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1140-stone-game-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1266-minimum-time-visiting-all-points](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1406-stone-game-iii) |
@@ -723,6 +724,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | [1345-jump-game-iv](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1345-jump-game-iv) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -1370,6 +1372,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 | ------- |
 | [1140-stone-game-ii](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1831,6 +1834,7 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
@@ -2075,4 +2079,8 @@ If you find this repository helpful, consider giving it a ⭐ on GitHub!
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/QaisarAbbas2024/LeetCode-Questions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
